@@ -7,7 +7,7 @@ Pozrite sa cez okno. Čo vidíte? Bežné veci. Ale cez Martinove okno uvidíte 
 \[Anton Gérer \- šéfredaktor ATP Journal\]
 
 
-[(1) Na Hromnice o hodinu viacej](https://www.atpjournal.sk/buxus/docs/casopisy_cele/ATP_journal_02_2025_vnutro%20web.pdf)
+[(1) Na Hromnice o hodinu viacej](https://www.atpjournal.sk/buxus/docs/casopisy_cele/ATP_journal_02_2025_vnutro%20web.pdf#page=49)
 
 [(2) Dürer v Bratislave?](https://github.com/MartinFoltin/okno/tree/main/02_Durer)
 
