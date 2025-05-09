@@ -1,6 +1,6 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MartinFoltin/okno&file=/02_Durer/MagicDurer.mlx)
-# Dürer v Bratislave?
 
+# Dürer v Bratislave?
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MartinFoltin/okno&file=/02_Durer/MagicDurer.mlx)
 *(9.5.2025) Martin Foltin*
 
 
