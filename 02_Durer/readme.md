@@ -11,7 +11,7 @@ durer_melancolia=imread("Durer_Melancolia_I.jpg");
 imshow(durer_melancolia);
 ```
 
-![figure_0.png](/figure_0.png)
+![figure_0.png](figure_0.png)
 
 K obrazu mám vzťah od strednej školy. Videl som ho prvýkrát v príručke k MATLABu. Nájdete ho tam aj dnes. Obraz vyjadruje hlboký a hĺbavý smútok autora. Rozborom celého diela sa zaoberať nebudem. Sústredím sa na pravý horný roh \- magickú tabuľku. Práve táto tabuľka sa využíva pri demonštrovaní, ako prakticky sa v MATLABe pracuje s maticami. Jednoducho ich zadáte do premennej, spravíte súčty v riadkoch, stĺpcoch, na diagonálach. Dürer však magickú tabuľku neumiestnil na svoj obraz preto, aby sme mohli o 500 rokov trénovať indexovanie matíc v MATLABe. Jeho matica má hlbší, veľmi osobný a skoro až magický význam. MATLAB nám pomôže pri odhaľovaní jej odkazu. 
 
