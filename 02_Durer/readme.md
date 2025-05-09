@@ -20,7 +20,7 @@ durer_magic=imread("Durer_magic.jpeg");
 imshow(durer_magic);
 ```
 
-![figure_1.png](MagicDurer_media/figure_1.png)
+![figure_1.png](figure_1.png)
 
 Najskôr zadajme tabuľku vo forme matice do premennej MA. 
 
